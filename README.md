@@ -10,6 +10,12 @@ Developed for the Southern Luzon State University Technology Business Incubator 
 
 Start-up Yuyan was designed to help manage startup applications, incubatee records, progress tracking, consultation scheduling, and administrative operations within the SLSU-TBI.
 
+## Problem Addressed
+
+Startup incubation programs involve several administrative processes, including application evaluation, incubatee monitoring, consultation scheduling, and records management.
+
+Start-up Yuyan was developed to provide SLSU-TBI with a centralized platform to manage these processes, support more organized information handling, and improve coordination between administrators and incubatees.
+
 ## Key Features
 
 - **Application Management:** Submission, review, and processing of startup applications.
